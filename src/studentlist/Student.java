@@ -28,7 +28,7 @@ public class Student {
     }
     public void setName(String givenName)
     {
-        .name = givenName;
+        name = givenName;
     }
     public String getName()
     {
