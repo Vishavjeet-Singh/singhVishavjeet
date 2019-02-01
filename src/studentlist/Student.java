@@ -7,7 +7,7 @@ package studentlist;
  */
 
 /**
- *
+ *fetch
  * @author shaim
  */
 public class Student {
